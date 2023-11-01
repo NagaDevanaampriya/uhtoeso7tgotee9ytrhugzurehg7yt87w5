@@ -1,0 +1,14 @@
+ button{
+    background-color:lightcoral;
+    font-family: Georgia;
+ } 
+ body{
+    text-align: center;
+ }
+ h1{
+    font-family: Helvetica;
+ }
+  img{
+    height: 400px;
+    width: 300px;
+  }
